@@ -54,7 +54,7 @@ function pickColor(e) {
 		else if (e.target.id=="magenta"){
 			targetColor="#F0F"
 		}
-        else if (e.target.id=="orange"){
+        	else if (e.target.id=="orange"){
 			targetColor="#FFA500"
 		}
 		else if (e.target.id=="purple"){
